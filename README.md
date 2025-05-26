@@ -185,31 +185,31 @@ const developer = new SuhasyGowda();
 <tr>
 <td width="25%" align="center">
 <img src="https://media.giphy.com/media/l3vRfNA7ub8NKyFLG/giphy.gif" width="100">
-<h4>🛒 <strong>E-Commerce Empire</strong></h4>
-<p><code>React • Spring Boot • AWS</code></p>
-<p>🚀 <strong>50K+ Users</strong></p>
-<p>⭐ Modern shopping experience</p>
+<h4>🛒 <strong>E-Commerce Platform</strong></h4>
+<p><code>JavaScript • Supabase • Express • Node.js</code></p>
+<p>🚀 <strong>Modern Shopping</strong></p>
+<p>⭐ Full-stack commerce solution</p>
 </td>
 <td width="25%" align="center">
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100">
-<h4>📊 <strong>Analytics Hub</strong></h4>
-<p><code>Next.js • Node.js • MongoDB</code></p>
-<p>📈 <strong>Real-time Data</strong></p>
-<p>⭐ Interactive dashboards</p>
+<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100">
+<h4>🍳 <strong>Recipe Chatbot</strong></h4>
+<p><code>MERN Stack • GenAI • OpenAI</code></p>
+<p>🤖 <strong>AI-Powered Chef</strong></p>
+<p>⭐ Smart recipe recommendations</p>
 </td>
 <td width="25%" align="center">
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100">
-<h4>🏥 <strong>HealthTech Pro</strong></h4>
-<p><code>Java • React • PostgreSQL</code></p>
-<p>👥 <strong>10K+ Patients</strong></p>
-<p>⭐ Smart scheduling system</p>
+<h4>👨‍⚕️ <strong>AI Doctor</strong></h4>
+<p><code>Flask API • React • AI/ML</code></p>
+<p>🏥 <strong>Medical Assistant</strong></p>
+<p>⭐ Intelligent health diagnostics</p>
 </td>
 <td width="25%" align="center">
-<img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="100">
-<h4>🎮 <strong>GameVerse</strong></h4>
-<p><code>TypeScript • Express • Redis</code></p>
-<p>🎯 <strong>Gaming Community</strong></p>
-<p>⭐ Real-time multiplayer</p>
+<img src="https://media.giphy.com/media/3oKIPqZPlKfnHQhbLq/giphy.gif" width="100">
+<h4>🧠 <strong>MindMate Health</strong></h4>
+<p><code>MERN Stack • GenAI • Mental Health</code></p>
+<p>💚 <strong>Wellness Chatbot</strong></p>
+<p>⭐ AI-powered mental support</p>
 </td>
 </tr>
 </table>
